@@ -1,4 +1,4 @@
-# Salary Prediction for Data-Related Positions at Glassdoor Company
+**Salary Prediction for Data-Related Positions at Glassdoor Company**
 
 ## Overview
 This project focuses on predicting salaries for data-related job positions at Glassdoor Company. Leveraging a comprehensive dataset of over 5000 job listings, the project aims to provide accurate and insightful salary predictions that reflect the current market trends in the data industry.
